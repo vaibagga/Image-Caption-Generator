@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/vaibagga/Desktop/Vaibhav Bagga/Image Captioning/weights"
+all_model_checkpoint_paths: "/home/vaibagga/Desktop/Vaibhav Bagga/Image Captioning/weights_8"
+all_model_checkpoint_paths: "/home/vaibagga/Desktop/Vaibhav Bagga/Image Captioning/weights_9"
+all_model_checkpoint_paths: "/home/vaibagga/Desktop/Vaibhav Bagga/Image Captioning/weights_10"
+all_model_checkpoint_paths: "/home/vaibagga/Desktop/Vaibhav Bagga/Image Captioning/weights_11"
+all_model_checkpoint_paths: "/home/vaibagga/Desktop/Vaibhav Bagga/Image Captioning/weights"
